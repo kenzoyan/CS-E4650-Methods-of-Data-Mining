@@ -1,0 +1,27 @@
+rattrans.txt
+
+The data contains only seected features of the ratdataNormChecked.csv
+that have been binarized. The numerical features have been discretized
+manually, by choosing somehow good looking cut-off points (not necessarily
+optimal, since there are often many laternatives).
+
+The data is presented in a transaction form.
+
+Attributes:
+- ratid (not needed in rule discovery, but doesn't harm, helps to
+  identify rats if needed; note that each id is now a binary attribute)
+- summer if day 116...300 and winter if day 1...115 or 301...365
+- freezer if day=0
+- weightlow if weight<=162 and weightnormal otherwise (these probably
+  correspond to puppies/young and adult rats)
+- non-mother-female, mother-female and male derived from features
+gender and femstate (you could keep gender and motherhood  separate)
+- liversmall if liverind<=0.037 and liverlarge if liverind>0.064
+- pregnant and nursing from femstate
+- batlow if batind<=0.00067 and bathigh if batind>0.00184
+- tailshort if tailind<=0.74 and taillong if tailind>0.85
+- place1,..., place9:  one binary attribute for each place
+- wild if place=1-3, and lab otherwise
+- adrenalsmall if ADWBind<=0.21 and adrenalarge if ADWBind>0.48
+- BMIsmall if BMI<=0.47 and BMIlarge if BMI>0.75
+

@@ -1,0 +1,28 @@
+Corrtestdata.csv
+
+The data is derived from the Rat data (Exercise 1) after handling
+missing values, normalizing organ weights and tail length and removing
+some rats with erroneous measurements (some outliers and possibly
+errors still exist). In addition, some codes of categorical features
+or other special codes have been changed. The changes are described
+below:
+
+id - rat id
+day - date of death (1-365) or a new special code "400" for freezer rats (date
+  unknown)
+weight, gender - like in original data
+liverind, heartind, appind - normalized weights of organs (heart, liver,
+  appendix)
+femstate - if the rat was pregnant (1), nursing (2), pregnant and nursing
+  (3), or neither (4). A special code -1 for male rats.
+gonfatind, batind - normalized weights of two fat types
+sulcer - stage of stomach ulcer, like in original data
+kmethod - new codes for killing method: 1, 2 or 6
+tailind - normalized tail length
+blength - body length
+place - new codes for places/groups (1, 2, 3, 4, 7, 8, 9). Rats with place
+  codes 1-3 are wild rats and with 4-9 laboratory rats.
+year - last digit of the year or a special code 15, if year unknown (freezer
+  rats)
+ADWBind, gonind - two welfare indices, like in original data
+BMI - body mass index

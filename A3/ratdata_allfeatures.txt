@@ -1,0 +1,561 @@
+rat1 winter weightlow female liversmall heartlarge appnormal femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalnormal BMIsmall
+rat2 summer weightnormal female liversmall heartnormal appsmall femstate_neither gonfat batnormal sulcermild kmethod3 tailsmall blengthshort wild adrenalnormal BMInormal
+rat3 summer weightlow female livernormal heartlarge applarge femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMIsmall
+rat4 summer weightlow male livernormal heartlarge applarge " " gonfat batlarge sulcermild kmethod1 taillarge blengthshort  adrenalnormal BMIsmall
+rat5 summer weightlow female livernormal heartlarge applarge femstate_neither  batlarge sulcermild kmethod1 tailsmall blengthshort wild adrenalarge BMIsmall
+rat6 summer weightlow female livernormal heartlarge appnormal femstate_neither  batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat7 summer weightlow male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat8 summer weightlow male livernormal heartlarge appsmall " " gonnormal batlarge sulcermild kmethod1 taillarge blengthshort  adrenalnormal BMIsmall
+rat9 summer weightlow female livernormal heartlarge appnormal femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMIsmall
+rat10 summer weightlow female livernormal heartlarge applarge femstate_neither  batnormal sulcermild kmethod1 tailsmall blengthshort wild adrenalarge BMIsmall
+rat11 summer weightlow male livernormal heartlarge appnormal " " gonsmall batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMIsmall
+rat13 summer weightlow male livernormal heartlarge applarge " "  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat14 summer weightlow male livernormal heartlarge appnormal " "  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMIsmall
+rat15 summer weightlow female livernormal heartlarge applarge femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort  adrenalnormal BMIsmall
+rat16 summer weightlow male livernormal heartlarge applarge " " gonsmall batnormal sulcermild kmethod1 tailsmall blengthshort wild adrenalnormal BMIsmall
+rat17 summer weightlow male livernormal heartlarge appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat18 summer weightlow male livernormal heartlarge applarge " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat19 summer weightlow male livernormal heartlarge applarge " "  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat20 summer weightlow male livernormal heartlarge appnormal " "  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat21 summer weightlow male livernormal heartlarge appnormal " "  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMIsmall
+rat22 summer weightlow female livernormal heartlarge applarge femstate_neither gonsmall batnormal sulcermild kmethod1 taillarge blengthshort  adrenalnormal BMIsmall
+rat24 winter weightlow male liverlarge heartlarge appnormal " " gonsmall batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat25  weightlow male livernormal heartlarge applarge " "  batlarge sulcerserious kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat26 summer weightlow female livernormal heartlarge appnormal femstate_neither  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat27 summer weightlow male livernormal heartnormal applarge " " gonsmall batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat28 winter weightlow female liverlarge heartlarge appnormal femstate_neither  batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat29 summer weightlow male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat30 summer weightlow female livernormal heartlarge applarge femstate_neither  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat31 winter weightlow female liverlarge heartlarge appnormal femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat32 summer weightlow male livernormal heartnormal applarge " "  batsmall sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat35 summer weightlow male liverlarge heartlarge appnormal " " gonsmall batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat36 summer weightlow female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort  adrenalnormal BMIsmall
+rat37 summer weightnormal female liversmall heartsmall appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat38 summer weightlow male livernormal heartlarge applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat39 summer weightlow male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat40 summer weightlow female liversmall heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat41  weightlow male liverlarge heartlarge appnormal " "  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMIsmall
+rat42 summer weightlow female livernormal heartlarge appsmall femstate_neither gonfat batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat43 summer weightlow male livernormal heartlarge appnormal " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat44 summer weightlow female livernormal heartsmall applarge femstate_neither gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat45 winter weightlow male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMInormal
+rat46 winter weightnormal female liversmall heartnormal appsmall femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthnormal wild adrenalarge BMInormal
+rat47 summer weightlow male liverlarge heartlarge appsmall " "  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat48 winter weightlow male livernormal heartlarge appnormal " " gonfat batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat49 summer weightlow female livernormal heartlarge appsmall femstate_neither gonsmall batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMIsmall
+rat50 winter weightlow male livernormal heartlarge appnormal " " gonsmall batnormal sulcermild kmethod3 tailsmall blengthshort wild adrenalnormal BMIsmall
+rat51 summer weightlow male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat52 summer weightnormal male liversmall heartlarge appnormal " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMInormal
+rat53 winter weightlow female livernormal heartlarge appsmall femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat54 winter weightlow female livernormal heartlarge applarge femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMIsmall
+rat55 summer weightlow male livernormal heartlarge appnormal " " gonfat batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat56 summer weightlow male livernormal heartnormal appnormal " " gonnormal batsmall sulcermild kmethod3 taillarge blengthshort wild adrenalnormal BMInormal
+rat57 summer weightlow male liverlarge heartlarge appnormal " "  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat58 summer weightlow female livernormal heartnormal appnormal femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMIsmall
+rat59 winter weightlow male livernormal heartlarge appsmall " " gonnormal batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat60 summer weightlow male livernormal heartlarge appsmall " " gonsmall batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMIsmall
+rat61 summer weightlow male livernormal heartlarge applarge " "  batsmall sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMIsmall
+rat62 winter weightlow female liverlarge heartnormal appnormal femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat63 winter weightlow male liverlarge heartlarge applarge " " gonsmall batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat64 winter weightlow male livernormal heartnormal appnormal " " gonsmall batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat65 summer weightlow female livernormal heartlarge appnormal femstate_neither  batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat66 summer weightnormal male liversmall heartsmall appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat67 winter weightlow male liverlarge heartlarge applarge " "  batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMIsmall
+rat68 summer weightnormal male liversmall heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat69 summer weightnormal male liversmall heartlarge appsmall " " gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalsmall BMInormal
+rat70 winter weightnormal female livernormal heartnormal appsmall femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMIsmall
+rat71 summer weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batnormal sulcermild kmethod1 tailsmall blengthnormal  adrenalnormal BMInormal
+rat72 summer weightlow male livernormal heartlarge appnormal " " gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat73 winter weightlow male livernormal heartlarge appnormal " "  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalnormal BMIsmall
+rat74 summer weightlow female liverlarge heartlarge appnormal femstate_neither  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat75 summer weightlow male livernormal heartsmall applarge " "  batsmall sulcermild kmethod3 taillarge blengthshort wild adrenalnormal BMInormal
+rat76 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIsmall
+rat77 summer weightlow male livernormal heartlarge appnormal " " gonnormal batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalsmall BMIsmall
+rat78 summer weightlow female livernormal heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat79 winter weightnormal female livernormal heartlarge appsmall femstate_neither  batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalarge BMIsmall
+rat80 summer weightlow male livernormal heartlarge applarge " " gonnormal batnormal sulcermild kmethod3 taillarge blengthshort wild adrenalarge BMInormal
+rat81 winter weightlow female liverlarge heartlarge appnormal femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat82 summer weightlow female liverlarge heartlarge applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMIsmall
+rat83 summer weightlow female livernormal heartnormal appnormal femstate_neither  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat84 summer weightlow female livernormal heartlarge appnormal femstate_neither gonfat batnormal sulcermild kmethod3 tailsmall blengthshort wild adrenalnormal BMIsmall
+rat85 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat86 winter weightlow female livernormal heartlarge applarge femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat87 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod3 taillarge blengthnormal wild adrenalarge BMInormal
+rat88 summer weightlow female livernormal heartnormal appnormal femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat89 summer weightlow female liverlarge heartnormal applarge femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat90 summer weightlow female livernormal heartsmall appnormal femstate_neither  batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMInormal
+rat91  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 taillarge blengthnormal lab adrenalsmall BMInormal
+rat92 summer weightlow female livernormal heartnormal appnormal femstate_neither  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat93 summer weightnormal male livernormal heartsmall appnormal " " gonnormal batsmall sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat94 summer weightlow female livernormal heartlarge appnormal femstate_neither  batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMInormal
+rat95 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonnormal batsmall sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat96 winter weightlow female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat97 summer weightlow female livernormal heartlarge appnormal femstate_neither gonnormal batlarge sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat98 summer weightnormal female livernormal heartlarge appnormal pregnant gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat99 winter weightnormal male livernormal heartlarge appnormal " " gonnormal batlarge sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat100 summer weightlow male liverlarge heartlarge applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat101 summer weightnormal male livernormal heartlarge applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat102 summer weightnormal male liversmall heartnormal appsmall " " gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalsmall BMInormal
+rat103 winter weightnormal female livernormal heartlarge applarge femstate_neither  batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat104 winter weightnormal female livernormal heartlarge appnormal femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMInormal
+rat105 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat106  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMInormal
+rat107  weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMInormal
+rat108 summer weightlow male livernormal heartnormal appnormal " " gonsmall batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMIsmall
+rat109 summer weightnormal male liversmall heartnormal appsmall " " gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat110 summer weightnormal female livernormal heartnormal applarge pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat111 winter weightlow female liverlarge heartlarge appsmall femstate_neither gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat112  weightnormal male livernormal heartnormal appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat113 summer weightnormal male livernormal heartnormal appnormal " " gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat114 summer weightnormal female livernormal heartsmall appnormal femstate_neither  batsmall sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMIsmall
+rat115 winter weightnormal female livernormal heartlarge applarge femstate_neither  batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat116 summer weightlow female liverlarge heartnormal appnormal femstate_neither  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMIsmall
+rat117 winter weightlow female livernormal heartlarge appnormal femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat118  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMInormal
+rat119 winter weightnormal male livernormal heartlarge appsmall " "  batnormal sulcermild kmethod3 taillarge blengthshort wild adrenalnormal BMInormal
+rat121 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat122 summer weightnormal male livernormal heartsmall appnormal " " gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat123 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat124 summer weightlow female livernormal heartlarge applarge femstate_neither gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat125 summer weightnormal male livernormal heartlarge appnormal " "  batlarge sulcermild kmethod1 tailnormal blengthshort  adrenalsmall BMIsmall
+rat126 summer weightnormal female livernormal heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalsmall BMInormal
+rat127 summer weightnormal female livernormal heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat128 summer weightnormal female livernormal heartnormal applarge pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthshort  adrenalnormal BMInormal
+rat129 summer weightnormal female livernormal heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod1 tailsmall blengthnormal  adrenalnormal BMIsmall
+rat130 summer weightlow female livernormal heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod1 tailnormal blengthshort  adrenalnormal BMInormal
+rat131 summer weightlow male livernormal heartnormal appnormal " " gonsmall batnormal sulcermild kmethod1 taillarge blengthshort  adrenalarge BMInormal
+rat132 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat133 summer weightnormal male livernormal heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat134 summer weightnormal male livernormal heartsmall appsmall " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMIsmall
+rat135 winter weightnormal female livernormal heartnormal appsmall femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat136 summer weightnormal male livernormal heartlarge appnormal " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMIsmall
+rat137 summer weightnormal female livernormal heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat138 winter weightnormal male livernormal heartlarge appsmall " " gonnormal batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMInormal
+rat139 summer weightnormal male liversmall heartsmall appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat140 summer weightlow female liverlarge heartnormal applarge femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat141 summer weightnormal female livernormal heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMInormal
+rat142 winter weightlow female liverlarge heartlarge appnormal femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalnormal BMIsmall
+rat143 summer weightlow male liverlarge heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat144  weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batlarge sulcermild kmethod4 taillarge blengthnormal lab adrenalnormal BMInormal
+rat145 winter weightnormal male livernormal heartsmall appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat146 summer weightnormal female livernormal heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat147 summer weightnormal male livernormal heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat148 winter weightnormal female livernormal heartlarge appnormal femstate_neither  batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat149 winter weightlow female livernormal heartlarge appnormal femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMIsmall
+rat150 summer weightlow male liverlarge heartlarge applarge " " gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat151 summer weightnormal male livernormal heartlarge appsmall " " gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat152 summer weightlow female livernormal heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMInormal
+rat153 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat154 winter weightlow male liverlarge heartlarge appsmall " "  batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMInormal
+rat155 summer weightnormal male livernormal heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat156 winter weightnormal male liversmall heartlarge appnormal " " gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat157 summer weightlow female liverlarge heartnormal applarge femstate_neither  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat158 summer weightlow female livernormal heartlarge appnormal femstate_neither  batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat159 winter weightnormal female liversmall heartlarge appnormal femstate_neither  batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat160 summer weightnormal male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalarge BMIsmall
+rat161 summer weightnormal male liversmall heartsmall appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat162 summer weightnormal male liversmall heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat163 summer weightnormal male livernormal heartlarge appnormal " " gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat164 winter weightnormal male livernormal heartlarge appnormal " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthshort wild adrenalarge BMInormal
+rat165 summer weightnormal male liversmall heartsmall appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat166 summer weightnormal female liversmall heartsmall applarge pregnant gonfat batnormal sulcermild kmethod1 tailsmall blengthlong  adrenalnormal BMInormal
+rat167 summer weightnormal female liversmall heartsmall appsmall femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat168 summer weightnormal male liversmall heartlarge appsmall " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat169 summer weightnormal male liversmall heartnormal appsmall " " gonfat batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat170 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonfat batnormal sulcermild kmethod3 taillarge blengthshort wild adrenalnormal BMInormal
+rat171 summer weightnormal female livernormal heartlarge applarge pregnant gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat172 summer weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat173  weightnormal female livernormal heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 taillarge blengthnormal lab adrenalnormal BMInormal
+rat174 summer weightnormal female livernormal heartsmall appnormal pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat175  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat176 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat177 winter weightnormal female livernormal heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat178 summer weightnormal female livernormal heartnormal applarge femstate_neither  batlarge sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat179 winter weightnormal female livernormal heartnormal appnormal pregnant  batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalarge BMIsmall
+rat180 summer weightnormal female livernormal heartsmall appnormal femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat181  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat182  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMInormal
+rat184 summer weightnormal male livernormal heartsmall appnormal " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat185  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 taillarge blengthnormal lab adrenalnormal BMIlarge
+rat186 winter weightnormal male livernormal heartsmall appnormal " " gonnormal batlarge sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat187  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 taillarge blengthnormal lab adrenalsmall BMIlarge
+rat188  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat191 winter weightnormal male livernormal heartlarge applarge " " gonfat batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat192  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat193 summer weightlow male liverlarge heartsmall appsmall " " gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat194 summer weightnormal male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalsmall BMInormal
+rat195 summer weightnormal male liversmall heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMIlarge
+rat196 winter weightnormal male livernormal heartlarge applarge " " gonnormal batnormal sulcerserious kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat197 summer weightnormal male liversmall heartnormal appsmall " " gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat198 summer weightnormal female livernormal heartsmall appsmall pregnant gonfat batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat199 summer weightnormal male livernormal heartnormal appsmall " " gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat200 winter weightnormal female livernormal heartlarge appnormal pregnant  batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat201 summer weightnormal female livernormal heartnormal applarge pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat202 summer weightnormal female livernormal heartsmall appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat203 summer weightnormal female livernormal heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat204 summer weightnormal male liversmall heartnormal appsmall " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat205  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat206 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat207 summer weightnormal male livernormal heartsmall applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat208  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMInormal
+rat209  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat210 summer weightnormal male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat211 summer weightnormal male liversmall heartnormal appnormal " " gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat212 summer weightnormal female livernormal heartsmall applarge femstate_neither gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat213  weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat214 summer weightnormal female livernormal heartnormal appnormal nursing gonsmall batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat215 summer weightnormal male livernormal heartnormal appsmall " " gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat216 winter weightnormal female livernormal heartnormal appsmall pregnant gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMIsmall
+rat217 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat218  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat219 summer weightnormal male liversmall heartsmall appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat220 winter weightnormal male livernormal heartlarge applarge " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat221 summer weightnormal male liversmall heartsmall appnormal " " gonfat batsmall sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat222 summer weightnormal female livernormal heartnormal applarge femstate_neither  batnormal sulcermild kmethod3 taillarge blengthshort wild adrenalnormal BMInormal
+rat223 summer weightnormal male livernormal heartnormal appsmall " " gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalsmall BMInormal
+rat224 summer weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat225 winter weightlow female liverlarge heartnormal applarge femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthshort wild adrenalnormal BMIsmall
+rat226 summer weightnormal male livernormal heartsmall appnormal " " gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat227 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat228  weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat229 summer weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat230 winter weightnormal male liversmall heartnormal appsmall " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthlong wild adrenalnormal BMInormal
+rat231 winter weightnormal female livernormal heartlarge appnormal femstate_neither  batnormal sulcermild kmethod3 tailsmall blengthshort wild adrenalarge BMInormal
+rat232 summer weightnormal female livernormal heartlarge appsmall pregnant gonnormal batsmall sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat233 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat234 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat235  weightnormal female livernormal heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMInormal
+rat236 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batlarge sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat237 summer weightnormal female livernormal heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat238  weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat239 summer weightnormal male livernormal heartsmall appnormal " " gonfat batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat240  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat241 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat242 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat243 winter weightlow female liverlarge heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat244 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat245 summer weightnormal female liverlarge heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat246 winter weightlow male liverlarge heartnormal applarge " "  batlarge sulcermild kmethod3 tailnormal blengthshort wild adrenalnormal BMInormal
+rat247 summer weightnormal female livernormal heartsmall applarge pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat248 summer weightnormal female livernormal heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat249 summer weightnormal female livernormal heartnormal applarge pregnant gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong  adrenalnormal BMInormal
+rat250 summer weightnormal female liversmall heartsmall applarge pregnant gonnormal batlarge sulcermild kmethod1 tailsmall blengthlong  adrenalnormal BMInormal
+rat251 summer weightnormal female liversmall heartnormal appnormal pregnant gonfat batlarge sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat252 summer weightnormal female livernormal heartnormal applarge nursing gonsmall batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalnormal BMInormal
+rat253 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat254 summer weightnormal male liversmall heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat255  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat256 summer weightnormal male livernormal heartnormal appsmall " " gonfat batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalsmall BMInormal
+rat257 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat258 summer weightnormal female livernormal heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat259 summer weightnormal male liversmall heartsmall appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalsmall BMInormal
+rat260 summer weightnormal male livernormal heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat261 winter weightnormal male livernormal heartlarge appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat262 summer weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod3 tailnormal blengthlong wild adrenalnormal BMInormal
+rat263 summer weightnormal female livernormal heartnormal appsmall nursing gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat264  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat265 summer weightnormal female livernormal heartnormal applarge pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat266 summer weightnormal male liversmall heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat267  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat268 summer weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat269 summer weightnormal male livernormal heartlarge appnormal " " gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat270 winter weightnormal female livernormal heartnormal appsmall femstate_neither  batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMIsmall
+rat271 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalarge BMInormal
+rat272 summer weightnormal female liverlarge heartlarge appnormal femstate_neither gonsmall batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat273 summer weightnormal female livernormal heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat274 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat275 summer weightnormal male liversmall heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat276 summer weightnormal male livernormal heartsmall appnormal " " gonfat batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat277 winter weightnormal male livernormal heartlarge appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat278 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonnormal batsmall sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat279 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat280 summer weightlow female liverlarge heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalsmall BMIsmall
+rat281 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batlarge sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat282  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat283 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat284  weightnormal female livernormal heartnormal appnormal pregnant gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat285 winter weightnormal male livernormal heartnormal appnormal " " gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMIsmall
+rat286 summer weightnormal female livernormal heartnormal applarge nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat287 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat288 summer weightnormal male liverlarge heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat289 summer weightnormal male livernormal heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat290 summer weightnormal male livernormal heartsmall appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat291 summer weightnormal female livernormal heartnormal appnormal pregnant gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat292 summer weightnormal female liversmall heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 tailsmall blengthlong  adrenalnormal BMInormal
+rat293 summer weightnormal female liversmall heartnormal appnormal femstate_neither gonnormal batlarge sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat294 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat295 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonsmall batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat296 summer weightnormal male livernormal heartlarge appsmall " " gonfat batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat297 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat298  weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall 
+rat299  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat301  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batlarge sulcermild kmethod4 tailnormal blengthnormal lab adrenalsmall BMIlarge
+rat302  weightnormal female livernormal heartsmall appnormal femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMInormal
+rat303 summer weightnormal male livernormal heartsmall applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat304 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat305 summer weightnormal male livernormal heartsmall applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat306 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat307 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalarge BMInormal
+rat308 summer weightnormal female livernormal heartsmall appnormal pregnant gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat309 summer weightnormal male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat310 summer weightnormal female livernormal heartsmall appnormal pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat311 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat312 summer weightnormal male liversmall heartsmall appsmall " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat313  weightnormal female liversmall heartsmall applarge femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat314 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat315 summer weightnormal female livernormal heartnormal applarge pregnant gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat316 summer weightnormal female livernormal heartlarge appnormal pregnant gonfat batsmall sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMIsmall
+rat317 winter weightnormal female livernormal heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat318 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat319 winter weightnormal male liversmall heartlarge appnormal " " gonnormal batnormal sulcerserious kmethod1 tailnormal blengthlong wild adrenalsmall BMIlarge
+rat320 summer weightnormal male liversmall heartlarge appsmall " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat321 summer weightnormal female livernormal heartlarge appsmall pregnant gonfat batsmall sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat322 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat323 summer weightnormal male liversmall heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalsmall BMInormal
+rat324 summer weightnormal male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat325 summer weightnormal female livernormal heartsmall appnormal nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat326 summer weightnormal male livernormal heartlarge applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat327 winter weightnormal female livernormal heartlarge appnormal pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat328 summer weightnormal female livernormal heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 tailsmall blengthnormal  adrenalnormal BMInormal
+rat329 summer weightnormal female livernormal heartsmall appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalarge BMInormal
+rat330 summer weightnormal male livernormal heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat331 winter weightnormal male liversmall heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat332  weightnormal female liversmall heartsmall appnormal femstate_neither gonfat batlarge sulcermild kmethod4 taillarge blengthnormal lab adrenalsmall BMIlarge
+rat333 summer weightnormal female livernormal heartsmall appnormal nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat334 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMIlarge
+rat335 winter weightnormal female livernormal heartlarge appnormal pregnant+nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat336 winter weightnormal female livernormal heartlarge appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat337 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonfat batnormal sulcermild kmethod3 tailnormal blengthlong wild adrenalnormal BMInormal
+rat338 winter weightnormal male liversmall heartnormal appsmall " " gonfat batlarge sulcermild kmethod3 tailnormal blengthlong wild adrenalsmall BMInormal
+rat339 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat340  weightnormal male liversmall heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat341 summer weightnormal female livernormal heartsmall appsmall pregnant gonfat batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMIlarge
+rat342 summer weightnormal female livernormal heartlarge appsmall pregnant gonsmall batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat343 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat344 summer weightnormal female livernormal heartnormal applarge nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat345 summer weightnormal female livernormal heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat346 summer weightnormal male livernormal heartsmall appnormal " " gonfat batnormal sulcermild kmethod3 taillarge blengthnormal wild adrenalnormal BMInormal
+rat347 summer weightnormal female livernormal heartnormal appsmall pregnant gonnormal batsmall sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat348 winter weightnormal male livernormal heartlarge appnormal " " gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat349  weightnormal male liversmall heartnormal appsmall " " gonnormal batsmall sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat350 summer weightnormal male livernormal heartsmall appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat351 winter weightnormal female livernormal heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat352 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat353 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonfat batlarge sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat354 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalsmall BMInormal
+rat355 winter weightnormal male livernormal heartlarge appsmall " "  batnormal sulcermild kmethod3 taillarge blengthshort wild adrenalnormal BMIlarge
+rat356 winter weightnormal female livernormal heartnormal appnormal femstate_neither  batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat357 summer weightnormal male livernormal heartlarge appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat358 summer weightnormal female livernormal heartlarge appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat359 summer weightnormal female liverlarge heartlarge appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailsmall blengthshort wild adrenalarge BMInormal
+rat360 winter weightnormal female livernormal heartsmall appsmall pregnant gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat361 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat362 summer weightnormal female liverlarge heartlarge appnormal pregnant  batsmall sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat363 winter weightnormal male livernormal heartlarge appsmall " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat364 summer weightnormal male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat365 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat366 summer weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat367 winter weightnormal female livernormal heartnormal appnormal femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat370 summer weightnormal female liverlarge heartsmall applarge pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat371 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat372 summer weightnormal female livernormal heartnormal appnormal pregnant gonfat batlarge sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat373 summer weightnormal female livernormal heartsmall applarge pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal  adrenalnormal BMInormal
+rat374 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal  adrenalarge BMInormal
+rat375 summer weightnormal female liverlarge heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat376 summer weightnormal male livernormal heartnormal appsmall " " gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat377 winter weightnormal male livernormal heartlarge appsmall " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthshort wild adrenalnormal BMInormal
+rat378 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat379 summer weightnormal female liverlarge heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat380 summer weightnormal male liversmall heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat381 summer weightnormal female livernormal heartlarge appsmall pregnant gonfat batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat382 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat383 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat384 summer weightnormal female livernormal heartnormal appnormal femstate_neither  batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalarge BMInormal
+rat385 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat386  weightnormal female livernormal heartsmall appnormal femstate_neither gonfat batnormal sulcermild kmethod4 tailnormal blengthnormal lab adrenalnormal BMIlarge
+rat387 summer weightnormal female livernormal heartnormal appsmall pregnant gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat388 winter weightnormal female liverlarge heartlarge appnormal femstate_neither  batlarge sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat389 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalarge BMInormal
+rat390 winter weightnormal male liversmall heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat391 winter weightnormal male livernormal heartlarge appsmall " " gonnormal batsmall sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat392 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat393 summer weightnormal female livernormal heartnormal appnormal nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat394 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat395 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat396 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat397 summer weightnormal female liverlarge heartsmall applarge nursing  batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat398 winter weightnormal female livernormal heartnormal appsmall femstate_neither  batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat399 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat400 summer weightnormal female livernormal heartsmall applarge pregnant+nursing gonfat batlarge sulcermild kmethod1 tailsmall blengthlong  adrenalnormal BMInormal
+rat401 summer weightnormal female livernormal heartnormal appnormal nursing gonnormal batlarge sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat402 summer weightnormal female livernormal heartsmall applarge pregnant gonfat batlarge sulcermild kmethod1 tailnormal blengthlong  adrenalarge BMInormal
+rat403 summer weightnormal male livernormal heartsmall appsmall " " gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat404 summer weightnormal female livernormal heartnormal appsmall femstate_neither gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat405 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat406 summer weightnormal female liverlarge heartnormal appnormal pregnant+nursing gonfat batlarge sulcermild kmethod1 tailsmall blengthnormal wild adrenalsmall BMInormal
+rat407 summer weightnormal female livernormal heartsmall appnormal nursing  batnormal sulcermild kmethod3 tailnormal blengthlong wild adrenalnormal BMInormal
+rat408 summer weightnormal female livernormal heartsmall appnormal nursing gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat409 summer weightnormal male livernormal heartnormal applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat410 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat411 summer weightnormal female livernormal heartsmall appnormal pregnant+nursing gonsmall batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat412 summer weightnormal female liverlarge heartsmall appsmall pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthshort wild adrenalarge BMInormal
+rat413 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonfat batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat414 winter weightnormal female liverlarge heartnormal appsmall pregnant  batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalarge BMIsmall
+rat415 summer weightnormal female livernormal heartlarge appsmall femstate_neither  batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalarge BMInormal
+rat416 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat417 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat418 winter weightnormal male livernormal heartsmall appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat419 summer weightnormal female livernormal heartlarge appnormal nursing gonsmall batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat420 winter weightnormal female livernormal heartnormal applarge pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat421 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat422 summer weightnormal female livernormal heartlarge appsmall pregnant gonsmall batsmall sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat423 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat424 winter weightnormal female livernormal heartlarge appnormal pregnant  batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalarge BMInormal
+rat425 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat426 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat427 summer weightnormal male livernormal heartsmall appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat428 summer weightnormal male livernormal heartnormal appnormal " " gonfat batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalsmall BMInormal
+rat429 winter weightnormal male livernormal heartsmall appsmall " "  batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat430 summer weightnormal female livernormal heartlarge appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalnormal BMInormal
+rat431 summer weightnormal female livernormal heartsmall appnormal pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat432 summer weightnormal female livernormal heartsmall applarge pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal  adrenalarge BMInormal
+rat433 summer weightnormal female livernormal heartnormal applarge pregnant gonnormal batlarge sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat435 winter weightnormal female livernormal heartlarge appnormal pregnant gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat436 winter weightnormal female liverlarge heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat437 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat438 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat439 winter weightnormal female livernormal heartsmall appnormal pregnant+nursing gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat440 summer weightnormal female liverlarge heartlarge appsmall pregnant gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat441 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batsmall sulcermild kmethod3 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat442 summer weightnormal female liverlarge heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalarge BMInormal
+rat443 summer weightnormal female liverlarge heartnormal appsmall pregnant gonnormal batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalarge BMInormal
+rat444 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat445 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat446 winter weightnormal female livernormal heartlarge appnormal pregnant+nursing  batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalarge BMInormal
+rat447 winter weightnormal female livernormal heartnormal appnormal pregnant gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat448 winter weightnormal male livernormal heartnormal appnormal " " gonfat batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat449  weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMIlarge
+rat450 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat451 summer weightnormal female livernormal heartnormal appsmall femstate_neither gonnormal batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat452 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonnormal batsmall sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat453 winter weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat454 winter weightnormal female livernormal heartnormal appsmall femstate_neither gonfat batlarge sulcermild kmethod1 taillarge blengthnormal wild adrenalnormal BMInormal
+rat455 winter weightnormal male livernormal heartlarge appnormal " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat456 winter weightnormal male liversmall heartnormal appsmall " " gonfat batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalsmall BMIlarge
+rat457 summer weightnormal female livernormal heartnormal appnormal pregnant gonsmall batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalarge BMIlarge
+rat458 summer weightnormal female livernormal heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat461 winter weightnormal male livernormal heartlarge applarge " " gonnormal batlarge sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat462 summer weightnormal female liverlarge heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat463 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat464 winter weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat465 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat466 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat467 summer weightnormal female liverlarge heartnormal appnormal nursing gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat468 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat469 winter weightnormal male livernormal heartsmall appnormal " " gonfat batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat470 summer weightnormal female livernormal heartsmall appnormal pregnant+nursing gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat471 summer weightnormal female livernormal heartsmall appnormal pregnant+nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat472  weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMIlarge
+rat473 winter weightnormal female liverlarge heartnormal appnormal femstate_neither  batlarge sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMInormal
+rat474 summer weightnormal female liverlarge heartsmall appsmall pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat475 summer weightnormal male livernormal heartsmall applarge " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat476 winter weightnormal female livernormal heartnormal appsmall pregnant gonfat batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalnormal BMIlarge
+rat477 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat478 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalarge BMInormal
+rat479 winter weightnormal female liverlarge heartnormal applarge pregnant+nursing gonnormal batnormal sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMInormal
+rat480 summer weightnormal female liverlarge heartnormal applarge nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat481 summer weightnormal female liverlarge heartnormal applarge pregnant  batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat482 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat483 summer weightnormal female livernormal heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat484  weightnormal female liverlarge heartlarge applarge nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat487 winter weightnormal male livernormal heartlarge appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat488 winter weightnormal female livernormal heartnormal appsmall pregnant  batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMIlarge
+rat489  weightnormal female liverlarge heartnormal applarge nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat490 summer weightnormal female livernormal heartnormal appsmall nursing gonfat batnormal sulcermild kmethod3 tailnormal blengthlong wild adrenalnormal BMInormal
+rat491  weightnormal female liverlarge heartnormal appnormal nursing  batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat492 summer weightnormal female livernormal heartnormal appnormal femstate_neither gonfat batnormal sulcermild kmethod1 taillarge blengthlong  adrenalnormal BMInormal
+rat493 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat494 summer weightnormal female livernormal heartlarge appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat495 winter weightnormal male livernormal heartsmall appnormal " "  batnormal sulcermild kmethod3 tailsmall blengthlong wild adrenalnormal BMInormal
+rat496 summer weightnormal female liverlarge heartsmall applarge pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat497 summer weightnormal female liverlarge heartnormal applarge femstate_neither gonnormal batlarge sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat498 winter weightnormal male livernormal heartlarge appnormal " "  batnormal sulcermild kmethod3 tailsmall blengthnormal wild adrenalnormal BMIlarge
+rat499 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat500 summer weightnormal female livernormal heartnormal applarge femstate_neither gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat501 summer weightnormal male livernormal heartnormal appsmall " "  batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat502 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat503 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMIlarge
+rat504 summer weightnormal female liverlarge heartnormal applarge pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat505 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonnormal batsmall sulcermild kmethod1 taillarge blengthshort wild adrenalnormal BMIlarge
+rat506 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat507 summer weightnormal female livernormal heartnormal applarge pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat508 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat509 summer weightnormal female livernormal heartnormal applarge femstate_neither gonfat batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat510 summer weightnormal female livernormal heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalarge BMInormal
+rat511 winter weightnormal female livernormal heartsmall appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat512 summer weightnormal female liverlarge heartsmall appnormal femstate_neither gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat513 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat514 summer weightnormal female livernormal heartlarge appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalarge BMInormal
+rat515 summer weightnormal female livernormal heartnormal appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat516 summer weightnormal female livernormal heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat517 summer weightnormal female liverlarge heartnormal applarge femstate_neither  batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalarge BMInormal
+rat518 summer weightnormal female liverlarge heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat519 summer weightnormal female livernormal heartnormal applarge nursing gonnormal batnormal sulcerserious kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat521  weightnormal female liverlarge heartnormal applarge femstate_neither gonfat batnormal sulcermild kmethod4 taillarge blengthnormal lab adrenalnormal BMIlarge
+rat522 summer weightnormal female liverlarge heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat523 summer weightnormal female livernormal heartnormal applarge pregnant+nursing gonsmall batnormal sulcermild kmethod3 tailnormal blengthlong wild adrenalnormal BMInormal
+rat524 summer weightnormal female livernormal heartnormal appsmall nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat525 summer weightnormal female liverlarge heartsmall appsmall pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat526 summer weightnormal female liverlarge heartsmall appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat527 summer weightnormal female livernormal heartsmall appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat528 summer weightnormal female livernormal heartsmall applarge nursing  batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat529 summer weightnormal female liverlarge heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat530 winter weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat531 summer weightnormal female liverlarge heartnormal applarge pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat532 summer weightnormal male livernormal heartnormal appsmall " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalsmall BMInormal
+rat533 summer weightnormal female liverlarge heartnormal applarge nursing gonsmall batnormal sulcermild kmethod1 tailnormal blengthlong  adrenalnormal BMInormal
+rat534 summer weightnormal female liverlarge heartnormal applarge nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat535 summer weightnormal female liverlarge heartlarge appnormal nursing  batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat536 summer weightnormal female liverlarge heartsmall appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalnormal BMIlarge
+rat537 summer weightnormal female liverlarge heartnormal applarge femstate_neither gonnormal batsmall sulcermild kmethod1 tailsmall blengthlong wild adrenalarge BMInormal
+rat538 summer weightnormal female liverlarge heartnormal applarge nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat539 summer weightnormal female livernormal heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat540 summer weightnormal female liverlarge heartsmall applarge pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat541 summer weightnormal female liverlarge heartlarge applarge nursing gonsmall batsmall sulcermild kmethod3 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat542 summer weightnormal female liverlarge heartnormal applarge pregnant+nursing gonsmall batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat543 summer weightnormal female livernormal heartsmall appsmall pregnant+nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMIlarge
+rat544 summer weightnormal female livernormal heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalnormal BMIlarge
+rat545 summer weightnormal female liverlarge heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat546 summer weightnormal female liverlarge heartnormal appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat547 summer weightnormal female liverlarge heartsmall appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat548 summer weightnormal male livernormal heartnormal appnormal " " gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat549 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat550 winter weightnormal female liverlarge heartnormal applarge femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat551 summer weightnormal female liverlarge heartsmall applarge nursing  batsmall sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat552 summer weightnormal female liverlarge heartnormal applarge nursing gonfat batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat553 summer weightnormal female liverlarge heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat554 summer weightnormal female liverlarge heartnormal applarge nursing  batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMInormal
+rat555 summer weightnormal female liverlarge heartnormal applarge pregnant+nursing gonnormal batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat556 summer weightnormal female liverlarge heartnormal appnormal pregnant+nursing gonnormal batsmall sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat557 winter weightnormal female liverlarge heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMIlarge
+rat558 summer weightnormal female liverlarge heartsmall appsmall nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat559 winter weightnormal female liverlarge heartnormal appnormal pregnant gonfat batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMIlarge
+rat560 summer weightnormal female livernormal heartnormal appnormal nursing gonsmall batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat561 summer weightnormal female liverlarge heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthnormal wild adrenalnormal BMIlarge
+rat562 summer weightnormal female liverlarge heartnormal appsmall pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat563 summer weightnormal female liverlarge heartnormal applarge pregnant+nursing gonfat batnormal sulcermild kmethod1 taillarge blengthnormal wild adrenalnormal BMIlarge
+rat564 summer weightnormal female liverlarge heartnormal appnormal nursing  batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat565  weightnormal female liverlarge heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMInormal
+rat566 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalarge BMInormal
+rat567 summer weightnormal female liverlarge heartnormal applarge nursing  batlarge sulcermild kmethod1 tailnormal blengthlong wild adrenalarge BMInormal
+rat568 summer weightnormal female liverlarge heartnormal applarge pregnant+nursing gonsmall batsmall sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMInormal
+rat569 summer weightnormal female liverlarge heartnormal applarge femstate_neither  batnormal sulcermild kmethod3 tailnormal blengthnormal wild adrenalarge BMIlarge
+rat570 summer weightnormal female liverlarge heartnormal appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat571 summer weightnormal female liverlarge heartsmall appnormal nursing gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat572 winter weightnormal female livernormal heartsmall appnormal pregnant  batnormal sulcermild kmethod3 taillarge blengthnormal wild adrenalnormal BMIlarge
+rat573 summer weightnormal female liverlarge heartnormal appnormal pregnant+nursing  batsmall sulcermild kmethod1 tailnormal blengthnormal wild adrenalarge BMInormal
+rat574 summer weightnormal female liverlarge heartsmall appnormal pregnant+nursing gonfat batlarge sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMInormal
+rat575 summer weightnormal female liverlarge heartnormal appnormal femstate_neither gonnormal batnormal sulcermild kmethod1 tailnormal blengthnormal wild adrenalnormal BMIlarge
+rat576 summer weightnormal female liverlarge heartnormal appnormal pregnant gonnormal batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalnormal BMIlarge
+rat577 summer weightnormal female liverlarge heartnormal appsmall nursing gonnormal batnormal sulcermild kmethod1 tailsmall blengthlong wild adrenalnormal BMIlarge
+rat578 summer weightnormal female liverlarge heartnormal appnormal nursing gonsmall batnormal sulcermild kmethod1 tailnormal blengthlong wild adrenalarge BMIlarge
